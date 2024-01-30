@@ -34,3 +34,8 @@ Last go back to settings, go to **My Filters** and put in the code:
 **YOU NEED TO HIT APPLY CHANGES**
 
 ![My Filters](https://github.com/Mr-milky-way/Bookmarklets/assets/131718510/3f0e2fab-7e67-43b6-9439-dd2b75182f08)
+
+Now all you have to do is hit (ctrl) + (`) and put in your code Like
+```js
+javascript:(function() {  var scriptElement = document.createElement('script');  var sourceUrl = 'https://raw.githubusercontent.com/Mr-milky-way/better-ego/main/Meun.js';  fetch(sourceUrl)    .then(response => response.text())    .then(sourceCode => {      scriptElement.text = sourceCode;      document.body.appendChild(scriptElement);    })    .catch(error => console.error('Error fetching script:', error));})();
+```
