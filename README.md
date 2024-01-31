@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/Mr-milky-way/Bookmarklets/main/Ublock/ublockEx
 
 ![userResourcesLocation](https://github.com/Mr-milky-way/Bookmarklets/assets/131718510/2e442c12-ea12-4730-b130-7599dfdb559e)
 
-Last go back to settings, go to **My Filters** and put in the code: 
+Last go back to settings, go to **My Filters**, and put in the code: 
 ```js
 *##+js(execute_script.js)
 ```
@@ -35,7 +35,7 @@ Last go back to settings, go to **My Filters** and put in the code:
 
 ![My Filters](https://github.com/Mr-milky-way/Bookmarklets/assets/131718510/3f0e2fab-7e67-43b6-9439-dd2b75182f08)
 
-Now all you have to do is hit (ctrl) + (`) and put in your code Like
+Now all you have to do is hit (ctrl) + (`) and put in your code like this
 ```js
 javascript:(function() {  var scriptElement = document.createElement('script');  var sourceUrl = 'https://raw.githubusercontent.com/Mr-milky-way/better-ego/main/Meun.js';  fetch(sourceUrl)    .then(response => response.text())    .then(sourceCode => {      scriptElement.text = sourceCode;      document.body.appendChild(scriptElement);    })    .catch(error => console.error('Error fetching script:', error));})();
 ```
