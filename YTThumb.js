@@ -1,1 +1,1 @@
-javascript:mr-milky-way:open("https://i.ytimg.com/vi/"+location.search.match(/v=([^&]+)/)[1]+"/maxresdefault.jpg");
+javascript:krazete:open("https://i.ytimg.com/vi/"+location.search.match(/v=([^&]+)/)[1]+"/maxresdefault.jpg");
