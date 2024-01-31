@@ -50,6 +50,9 @@ Note: At x10 speed, the video usually plays faster than it can load.
 
 This bookmarklet works for videos on other websites too.
 
+### [YTThumb](YTThumb.js)
+Get the maximum resolution thumbnail of the current video.
+
 ### [Tab Title](TabTitle.js)
 Lets you retitle tabs and change the favicon.
 
@@ -58,6 +61,15 @@ Go [here](https://github.com/zeman/perfmap) to see all the info.
 
 ### [Rainbow Screen](Rainbow_Screen.js)
 Makes the screen rainbow and plays farting noises.
+> [!TIP]
 > Not the best idea to use at max volume
-### [YTThumb](YTThumb.js)
-Get the maximum resolution thumbnail of the current video.
+
+### [Mouse Light](mouselight.js)
+Simulate a flashlight.
+> [!IMPORTANT]
+> Can be laggy
+
+### [Hacked Screen](hacked_screen.js)
+Makes it look like you have been hacked
+> [!CAUTION]
+> **WILL CRASH YOUR COMPUTER** 
