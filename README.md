@@ -1,5 +1,8 @@
 # Bookmarklets
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 ## Running Bookmarklets
 
 ### Normal way
