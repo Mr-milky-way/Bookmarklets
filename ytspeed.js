@@ -25,7 +25,7 @@ function initDash() {
     dash.appendChild(range);
 
     var speed = document.createElement("div");
-    for (var i of [1, 2, 3, 5, 10, 15, 20]) {
+    for (var i of [1, 2, 3, 5, 10]) {
         var button = document.createElement("button");
         button.value = i;
         button.innerHTML = "x" + i;
