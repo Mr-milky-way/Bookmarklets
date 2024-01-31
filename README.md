@@ -76,3 +76,7 @@ Simulate a flashlight.
 Makes it look like you have been hacked
 > [!CAUTION]
 > **WILL CRASH YOUR COMPUTER** 
+
+### [Pain](pain.js)
+Does what ever the hell this is
+![?????](https://github.com/Mr-milky-way/Bookmarklets/assets/131718510/9fde7197-87b5-4759-8f92-b322fa5644af)
