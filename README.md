@@ -23,7 +23,8 @@ After that find userResourcesLocation and put this code in there:
 https://raw.githubusercontent.com/Mr-milky-way/Bookmarklets/main/Ublock/ublockExec.js
 ```
 
-**YOU NEED TO HIT APPLY CHANGES**
+> [!IMPORTANT]
+> **YOU NEED TO HIT APPLY CHANGES.**
 
 ![userResourcesLocation](https://github.com/Mr-milky-way/Bookmarklets/assets/131718510/2e442c12-ea12-4730-b130-7599dfdb559e)
 
@@ -31,7 +32,8 @@ Last go back to settings, go to **My Filters**, and put in the code:
 ```js
 *##+js(execute_script.js)
 ```
-**YOU NEED TO HIT APPLY CHANGES**
+> [!IMPORTANT]
+> **YOU NEED TO HIT APPLY CHANGES.**
 
 ![My Filters](https://github.com/Mr-milky-way/Bookmarklets/assets/131718510/3f0e2fab-7e67-43b6-9439-dd2b75182f08)
 
