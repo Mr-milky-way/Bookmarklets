@@ -23,7 +23,7 @@ After that find userResourcesLocation and put this code in there:
 https://raw.githubusercontent.com/Mr-milky-way/Bookmarklets/main/Ublock/ublockExec.js
 ```
 
-> [!IMPORTANT]
+> [!WARNING]
 > **YOU NEED TO HIT APPLY CHANGES.**
 
 ![userResourcesLocation](https://github.com/Mr-milky-way/Bookmarklets/assets/131718510/2e442c12-ea12-4730-b130-7599dfdb559e)
@@ -32,7 +32,7 @@ Last go back to settings, go to **My Filters**, and put in the code:
 ```js
 *##+js(execute_script.js)
 ```
-> [!IMPORTANT]
+> [!WARNING]
 > **YOU NEED TO HIT APPLY CHANGES.**
 
 ![My Filters](https://github.com/Mr-milky-way/Bookmarklets/assets/131718510/3f0e2fab-7e67-43b6-9439-dd2b75182f08)
@@ -58,6 +58,6 @@ Go [here](https://github.com/zeman/perfmap) to see all the info.
 
 ### [Rainbow Screen](Rainbow_Screen.js)
 Makes the screen rainbow and plays farting noises.
-
+> Not the best idea to use at max volume
 ### [YTThumb](YTThumb.js)
 Get the maximum resolution thumbnail of the current video.
