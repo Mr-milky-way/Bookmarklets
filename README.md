@@ -84,3 +84,7 @@ Does what ever the hell this is
 ### [Shrekify](shrekify.js)
 > [!IMPORTANT]
 > SPAMS SHREK EVERYWHERE
+
+### [Auto Clicker](AutoClicker.js)
+65+ CPS also follows the mouse
+
