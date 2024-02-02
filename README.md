@@ -95,3 +95,6 @@ Does what it says
 
 ### [Cookie Notes](CookieNotes.js)
 Lets you take note with cookies
+
+### [Source View](sourceview.js)
+Lets you view the source code
