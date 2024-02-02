@@ -92,3 +92,6 @@ Does what ever the hell this is
 Does what it says
 > [!CAUTION]
 > Is laggy
+
+### [Cookie Notes](CookieNotes.js)
+Lets you take note with cookies
