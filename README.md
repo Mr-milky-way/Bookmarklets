@@ -88,3 +88,7 @@ Does what ever the hell this is
 ### [Auto Clicker](AutoClicker.js)
 65+ CPS also follows the mouse
 
+### [Open INFINITE tabs](OpenINFINITEtabs.js)
+Does what it says
+> [!CAUTION]
+> Is laggy
