@@ -42,7 +42,7 @@ Last go back to settings, go to **My Filters**, and put in the code:
 
 Now all you have to do is hit (ctrl) + (`) and put in your code like this
 ```js
-javascript:(function() {  var scriptElement = document.createElement('script');  var sourceUrl = 'https://raw.githubusercontent.com/Mr-milky-way/better-ego/main/Meun.js';  fetch(sourceUrl)    .then(response => response.text())    .then(sourceCode => {      scriptElement.text = sourceCode;      document.body.appendChild(scriptElement);    })    .catch(error => console.error('Error fetching script:', error));})();
+javascript:(function() {  var scriptElement = document.createElement('script');  var sourceUrl = 'https://raw.githubusercontent.com/dragon731012/Ego-Menu-Bookmarklets/refs/heads/main/Menu.js';  fetch(sourceUrl)    .then(response => response.text())    .then(sourceCode => {      scriptElement.text = sourceCode;      document.body.appendChild(scriptElement);    })    .catch(error => console.error('Error fetching script:', error));})();
 ```
 
 ## What they do
